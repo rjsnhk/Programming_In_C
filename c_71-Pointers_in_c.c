@@ -1,5 +1,5 @@
 //ponter contain always adress of variable
-//pointer=2byte 
+//pointer=4byte 
 //derived datatype
 // datatype * pointer_name;
 
